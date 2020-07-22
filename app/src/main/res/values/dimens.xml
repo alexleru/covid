@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="background_main_radius">2dp</dimen>
+    <dimen name="background_cell_radius">8dp</dimen>
+    <dimen name="main_number_widget">22sp</dimen>
+    <dimen name="change_number_widget">10sp</dimen>
+    <dimen name="text_widget">10sp</dimen>
+</resources>
